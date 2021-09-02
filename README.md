@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏼
 I have a passonate interest in Mathematics and Computer Science, and I love learning about and understanding how things work!
 <!--
 **Divy1211/Divy1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
