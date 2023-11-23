@@ -15,7 +15,7 @@ All things related to:
     - Open World: Factorio, Minecraft
     - Strategy: Age of Empires II
     - Board games: Avalon
-  - Maths and Natural Science
+  - Maths and Natural Sciences
 
 #### 🌱 Currently Learning
 - Functional Programming
