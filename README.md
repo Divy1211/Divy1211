@@ -1,5 +1,29 @@
-### Hi there 👋🏼
-I have a passonate interest in Mathematics and Computer Science, and I love learning about and understanding how things work!
+## 👋🏼 Hello there!
+
+#### 😄 About Me (he/him)
+I am a passionate gamer and also a senior-year computer science student. I speak HI, EN, and elementary JP
+
+#### ⚡ My Interests
+All things related to:
+  - Computer Science
+    - Programming (I speak Java, JS/TS, Python, C/C++, Scala, C#)
+    - Computer Structures
+    - Software Architecture
+  - Gaming
+    - Puzzle: It takes two
+    - Co-Op: Sea of Thieves, Overcooked 2
+    - Open World: Factorio, Minecraft
+    - Strategy: Age of Empires II
+    - Board games: Avalon
+  - Maths and Natural Science
+
+#### 🌱 Currently Learning
+- Functional Programming
+  - Scala
+  - Haskell
+  - Rust
+- Unity
+
 <!--
 **Divy1211/Divy1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
