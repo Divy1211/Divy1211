@@ -6,7 +6,7 @@ I am a passionate gamer and also a senior-year computer science student. I speak
 #### ⚡ My Interests
 All things related to:
   - Computer Science
-    - Programming (I speak Java, JS/TS, Python, C/C++, Scala, C#)
+    - Programming (I speak Java, JS/TS, Python, C/C++, C#, Scala, Haskell, Scheme)
     - Computer Structures
     - Software Architecture
   - Gaming
