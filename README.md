@@ -28,7 +28,7 @@ All things related to:
 - [AoE2:DE UGC Guide](https://ugc.aoe2.rocks/) - A guide/documentation for all things related to AoE2DE's UGC
 - [BFP](https://github.com/Divy1211/BinaryFileParser) - A Python library for declaratively reading/writing binary files
 
-#### 👯 Looking to Collaborate On
+#### 👯 Looking To Collaborate On
 Any of the above projects!
 
 #### 💬 Ask Me About
