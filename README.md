@@ -24,7 +24,7 @@ All things related to:
 
 #### 🔭 Currently Working On
 - [XSLint](https://github.com/Divy1211/xs-lint) - A type checker and linter for AoE2:DE's flavour of XS
-- [AoE2:DE UGC Guide]([url](https://ugc.aoe2.rocks/)) - A guide/documentation for all things related to AoE2DE's UGC
+- [AoE2:DE UGC Guide](https://ugc.aoe2.rocks/) - A guide/documentation for all things related to AoE2DE's UGC
 - [BFP](https://github.com/Divy1211/BinaryFileParser) - A Python library for declaratively reading/writing binary files
 
 #### 👯 Looking to Collaborate On
