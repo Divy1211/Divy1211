@@ -37,6 +37,10 @@ Functional Programming
 #### 📫 How To Reach Me
 @alian713 on discord!
 
+#### ⚡ Fun Fact
+I can recite the first 200 digits of π
+
+
 <!--
 **Divy1211/Divy1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
