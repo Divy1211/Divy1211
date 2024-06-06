@@ -9,6 +9,7 @@ All things related to:
     - Programming Languages & Compiler Design (I speak Java, JS/TS, Python, C/C++, C#, Scala, Haskell, Rust)
     - Computer Structures
     - Software Architecture
+    - Software Reverse Engineering
   - Gaming
     - Puzzle: It takes two
     - Co-Op: Sea of Thieves, Overcooked 2
