@@ -40,6 +40,14 @@ Functional Programming
 #### ⚡ Fun Fact
 I can recite the first 200 digits of π
 
+## 🔢 Fun Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=divy1211&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&hide_title=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divy1211&hide=shaderlab,hlsl,javascript&theme=dark&layout=pie&hide_title=true" />
+</a>
 
 <!--
 **Divy1211/Divy1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
