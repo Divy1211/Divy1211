@@ -1,7 +1,7 @@
 ## 👋🏼 Hello there!
 
 #### 😄 About Me (he/him)
-I am a passionate gamer and also a senior-year computer science student. I speak HI, EN, and elementary JP
+I am a passionate gamer and a computer science & programming language enthusiast. I speak HI, EN, and elementary JP
 
 #### ⚡ My Interests
 All things related to:
