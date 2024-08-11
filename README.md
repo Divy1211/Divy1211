@@ -15,16 +15,21 @@ All things related to:
     - Co-Op: Sea of Thieves, Overcooked 2
     - Open World: Factorio, Minecraft
     - Strategy: Age of Empires II
-    - Board games: Avalon
+    - Board games: Avalon, Catan, etc.
   - Maths and Natural Sciences
-  - Linguistics and Languages!
+  - Linguistics and Languages
+  - Music: Singing + Hobbyist Piano player
+  - Puns, Wordplay, Literature, Poetry
+  - Meditation, Self Discipline
+  - Anime: Huge Naruto fan
+  - Sci Fi: Huge Interstellar fan
 
 #### 🌱 Currently Learning
 - Rust
 - PyO3
 
 #### 🔭 Currently Working On
-- [XSLint](https://github.com/Divy1211/xs-lint) - A type checker and linter for AoE2:DE's flavour of XS
+- [XS Check](https://github.com/Divy1211/xs-check) - A type checker and linter for AoE2:DE's flavour of XS
 - [AoE2:DE UGC Guide](https://ugc.aoe2.rocks/) - A guide/documentation for all things related to AoE2DE's UGC
 - [BFP](https://github.com/Divy1211/BinaryFileParser) - A Python library for declaratively reading/writing binary files
 
@@ -32,7 +37,7 @@ All things related to:
 Any of the above projects!
 
 #### 💬 Ask Me About
-Functional Programming
+Functional programming
 
 #### 📫 How To Reach Me
 @alian713 on discord!
