@@ -26,7 +26,6 @@ All things related to:
   - Sci Fi: Huge Interstellar fan
 
 #### 🌱 Currently Learning
-- Rust
 - PyO3
 
 #### 🔭 Currently Working On
