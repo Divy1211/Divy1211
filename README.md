@@ -15,6 +15,7 @@ All things related to:
     - Co-Op: Sea of Thieves, Overcooked 2
     - Open World: Factorio, Minecraft
     - Strategy: Age of Empires II
+    - Chess
     - Board games: Avalon, Catan, etc.
   - Maths and Natural Sciences
   - Linguistics and Languages
