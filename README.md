@@ -6,7 +6,7 @@ I am a passionate gamer and a computer science & programming language enthusiast
 #### ⚡ My Interests
 All things related to:
   - Computer Science
-    - Programming Languages & Compiler Design (I speak Java, JS/TS, Python, C/C++, C#, Scala, Haskell, Rust)
+    - Programming Languages & Compiler Design (I speak Java, JS/TS, Python, C/C++, C#, Lisp, Scala, Haskell, Rust, Kotlin)
     - Computer Structures
     - Software Architecture
     - Software Reverse Engineering
