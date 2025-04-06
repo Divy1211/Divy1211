@@ -43,7 +43,7 @@ Functional programming
 @alian713 on discord!
 
 #### ⚡ Fun Fact
-I can recite the first 200 digits of π
+I can recite the first 300 digits of π
 
 ## 🔢 Fun Stats
 
