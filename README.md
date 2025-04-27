@@ -1,29 +1,31 @@
 ## 👋🏼 Hello there!
 
 #### 😄 About Me (he/him)
-I am a passionate gamer and a computer science & programming language enthusiast. I speak HI, EN, and elementary JP
+I'm Alian713, I'm a game developer by day and a nerd for anything interesting by the night! I like playing games and I am also a computer science & programming language enthusiast. I speak HI, EN, and elementary JP.
 
 #### ⚡ My Interests
 All things related to:
   - Computer Science
-    - Programming Languages & Compiler Design (I speak Java, JS/TS, Python, C/C++, C#, Lisp, Scala, Haskell, Rust, Kotlin)
+    - Programming Languages & Compiler Design
     - Computer Structures
     - Software Architecture
     - Software Reverse Engineering
   - Gaming
+    - Board games: Blood on the Clocktower, Catan, Chess, Avalon.
     - Puzzle: It takes two
     - Co-Op: Sea of Thieves, Overcooked 2
     - Open World: Factorio, Minecraft
     - Strategy: Age of Empires II
-    - Chess
-    - Board games: Avalon, Catan, etc.
   - Maths and Natural Sciences
   - Linguistics and Languages
   - Music: Singing + Hobbyist Piano player
-  - Puns, Wordplay, Literature, Poetry
-  - Meditation, Self Discipline
-  - Anime: Huge Naruto fan
-  - Sci Fi: Huge Interstellar fan
+
+#### Socials
+
+- [YT](https://www.youtube.com/@alian714)
+- [BlueSky](https://bsky.app/profile/alian713.bsky.social)
+- Discord: @alian713
+- Blog: Coming Soon!
 
 #### 🌱 Currently Learning
 - PyO3
@@ -39,8 +41,11 @@ Any of the above projects!
 #### 💬 Ask Me About
 Functional programming
 
-#### 📫 How To Reach Me
-@alian713 on discord!
+#### ⌨ Programming Languages & IDEs
+
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg' width="50"> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg' width="50"> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg' width="50"> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg' width="50"> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg' width="50"> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg' width="50"> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg' width="50"> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg' width="50"> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg' width="50"> <img src='https://www.rust-lang.org/logos/rust-logo-512x512.png' width="50"> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg' width="50">
+
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg' width="50"> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg' width="50"> <img src='https://camo.githubusercontent.com/f9deca294ada9b8c90c44376bf217cd49ab665808faac82988739627ca2f8a84/68747470733a2f2f7265736f75726365732e6a6574627261696e732e636f6d2f68656c702f696d672f696465612f52757374526f7665725f69636f6e3235362e737667' width="50"> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg' width="50"> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg' width="50"> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg' width="50"> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg' width="50">
 
 #### ⚡ Fun Fact
 I can recite the first 300 digits of π
