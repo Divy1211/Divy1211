@@ -24,8 +24,8 @@ All things related to:
 
 - [YT](https://www.youtube.com/@alian714)
 - [BlueSky](https://bsky.app/profile/alian713.bsky.social)
+- [Blog](https://alian713.com/)
 - Discord: @alian713
-- Blog: Coming Soon!
 
 #### 🌱 Currently Learning
 - PyO3
