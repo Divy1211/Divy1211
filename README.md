@@ -48,7 +48,7 @@ Functional programming
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg' width="50"> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg' width="50"> <img src='https://camo.githubusercontent.com/f9deca294ada9b8c90c44376bf217cd49ab665808faac82988739627ca2f8a84/68747470733a2f2f7265736f75726365732e6a6574627261696e732e636f6d2f68656c702f696d672f696465612f52757374526f7665725f69636f6e3235362e737667' width="50"> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg' width="50"> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg' width="50"> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg' width="50">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscodium/vscodium-original.svg" width="50" />
 
 #### ⚡ Fun Fact
-I can recite the first 300 digits of π
+I can recite the first 400 digits of π
 
 ## 🔢 Fun Stats
 
