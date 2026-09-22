@@ -18,7 +18,7 @@ All things related to:
     - Strategy: Age of Empires II
   - Maths and Natural Sciences
   - Linguistics and Languages
-  - Music: Singing + Hobbyist Piano player
+  - Music: Piano
 
 #### Socials
 
@@ -28,12 +28,13 @@ All things related to:
 - Discord: @alian713
 
 #### 🌱 Currently Learning
-- PyO3
+- Bevy in Rust
 
 #### 🔭 Currently Working On
-- [XS Check](https://github.com/Divy1211/xs-check) - A type checker and linter for AoE2:DE's flavour of XS
+- [XS Check](https://github.com/Divy1211/xs-check) - A type checker, linter, and LSP for AoE2:DE's flavour of XS
+- [RMS Check](https://github.com/Divy1211/rms-check) - A static name analysis tool for AoE2:DE's flavour of XS
 - [AoE2:DE UGC Guide](https://ugc.aoe2.rocks/) - A guide/documentation for all things related to AoE2DE's UGC
-- [BFP](https://github.com/Divy1211/BinaryFileParser) - A Python library for declaratively reading/writing binary files
+- [BFP](https://github.com/Divy1211/BinaryFileParser/tree/bfp-rs) - A blazingly fast Python library for declaratively reading/writing binary files written in Rust
 
 #### 👯 Looking To Collaborate On
 Any of the above projects!
